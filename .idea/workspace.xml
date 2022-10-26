@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3129c717-ac05-4b89-94ca-ef5358b0783c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Javascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/starter/challenge1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/starter/challenge2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/starter/challenge3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/starter/challenge4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/starter/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/challenge1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/challenge2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/challenge3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/challenge4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-coding-challenges.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Fundamentals-Part-1/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Fundamentals-Part-1/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-Fundamentals-Part-2/starter/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-Guess-My-Number/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Guess-My-Number/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Guess-My-Number/starter/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Modal/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Modal/starter/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GSIXMR24HXOIB3YOMh1tpAHk6K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jordantaylor/Desktop/Development/teach-your-self-cs/Programming/Javascript/02-Fundamentals-Part-2/starter",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02-Fundamentals-Part-2/starter" />
+      <recent name="$PROJECT_DIR$/01-Fundamentals-Part-1/starter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3129c717-ac05-4b89-94ca-ef5358b0783c" name="Changes" comment="" />
+      <created>1666375596398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666375596398</updated>
+      <workItem from="1666375597862" duration="6287000" />
+      <workItem from="1666386769675" duration="46000" />
+      <workItem from="1666386825038" duration="49845000" />
+      <workItem from="1666738158660" duration="5996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
